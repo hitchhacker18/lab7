@@ -8,9 +8,4 @@ document.getElementById('entrybutton').addEventListener('click', function(){
 
 }
 
-
-
-
-
-
 window.addEventListener('load', init);
